@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<about>
+    <label>About View</label>
+    <description>
+        A little library for display information of your application.
+        The configure file in `[MODULE DIR]/src/main/res/xml/about.xml`, Writing it for you application.
+    </description>
+    <license href="http://gitai.me">GPLv3+</license>
+    <repository type="git" href="https://github.com/gitaiQAQ/AboutView.git">AboutView@Github</repository>
+    <homes>
+        <home href="http://gitai.me/%E5%BA%94%E7%94%A8/android/2015/2015/12/13/me.gitai.aboutview">Website</home>
+        <home href="https://github.com/gitaiQAQ/AboutView">Github</home>
+    </homes>
+    <issues>
+        <issue href="https://github.com/gitaiQAQ/AboutView/issues">Issues</issue>
+    </issues>
+    <devers>
+        <dever email="i@gitai.me" href="https://github.com/gitaiQAQ">Gitai</dever>
+    </devers>
+    <dependencies>
+        <dep title="example" href="http://example.com" name="example@example.com" ver="1.0" code="1" type="lib">
+Copyright 2015 Gitai
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+   http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</dep>
+    </dependencies>
+    <changelogs>
+        <clog name="v0.0.1" code="1" type="html"><![CDATA[
+            * Example Item 1<br>
+            * Example Item 2<br>
+            * Example Item 3<br>
+            * Example Item 4<br>
+        ]]></clog>
+    </changelogs>
+</about>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AboutView">
+        <attr name="xml" format="reference" localization="suggested"/>
+        <attr name="logo" format="reference" localization="suggested"/>
+        <attr name="label" format="reference|string" localization="suggested"/>
+        <attr name="description" format="reference|string" localization="suggested"/>
+        <attr name="version" format="reference|string" localization="suggested"/>
+        <attr name="version_code" format="reference|integer"/>
+        <attr name="license" format="reference|string"/>
+        <attr name="repository" format="reference|string" localization="suggested"/>
+        <attr name="issues" format="reference|enum" localization="suggested"/>
+        <attr name="devers" format="reference|enum" localization="suggested"/>
+        <attr name="homes" format="reference|enum" localization="suggested"/>
+    </declare-styleable>
+</resources>
